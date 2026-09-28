@@ -1,0 +1,5 @@
+out/
+data/*.db
+data/*.db-journal
+lib/*.jar
+tools/
